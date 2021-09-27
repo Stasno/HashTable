@@ -47,6 +47,8 @@ namespace HashTable
             Console.WriteLine("2621 Is deleted: " + table.Remove(2621));
             table.Print();
 
+            Dictionary<int, int> pairs;
+            Console.WriteLine("Hello World!");
         }
     }
 }
